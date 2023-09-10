@@ -1,4 +1,6 @@
 public class Demo{
 
+    int i=20;
+int i=50;
 
 }
